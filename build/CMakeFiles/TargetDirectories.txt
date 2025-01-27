@@ -1,0 +1,3 @@
+/home/sapper/Desktop/Odometer/build/CMakeFiles/Odometer.dir
+/home/sapper/Desktop/Odometer/build/CMakeFiles/edit_cache.dir
+/home/sapper/Desktop/Odometer/build/CMakeFiles/rebuild_cache.dir
